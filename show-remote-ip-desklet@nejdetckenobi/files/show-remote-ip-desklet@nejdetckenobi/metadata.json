@@ -1,6 +1,0 @@
-{
-    "uuid": "show-remote-ip-desklet@nejdetckenobi",
-    "name": "ShowRemoteIPDesklet",
-    "description": "A desklet that shows your remote IP address",
-    "prevent-decorations": false
-}

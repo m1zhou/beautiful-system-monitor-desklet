@@ -1,7 +1,0 @@
-{
-  "uuid": "stopwatch@KopfdesDaemons",
-  "name": "Stopwatch",
-  "description": "A simple stopwatch.",
-  "version": "1.0",
-  "max-instances": "50"
-}

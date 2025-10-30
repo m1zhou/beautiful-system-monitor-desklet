@@ -1,9 +1,0 @@
-{
-    "cinnamon-version": [
-        "4.8"
-    ], 
-    "description": "A desklet that displays top process info",
-    "name": "Top",
-    "prevent-decorations": true, 
-    "uuid": "top@ryannerd"
-}
