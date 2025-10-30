@@ -1,0 +1,7 @@
+{
+    "description": "Shows some system status values",
+    "uuid": "beautifulSystemMonitor@m1zhou",
+    "name": "Beautiful System Monitor",
+    "max-instances": "-1",
+    "prevent-decorations" : "true"
+}
